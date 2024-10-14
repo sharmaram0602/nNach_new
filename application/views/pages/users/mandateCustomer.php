@@ -1683,7 +1683,7 @@
             var emiFrequency  = $('select[name=emi_frequency]').val();
             var collectionEMIAmount =  0 ;
 
-            collectionEMIAmount = Math.ceil(loanCollectionAmount / emiCount); // Round up
+            collectionEMIAmount = (loanCollectionAmount / emiCount); // Round up
 
 
               if (startDate && emiCount && emiFrequency && emiDate) {
@@ -4086,101 +4086,97 @@ $('#editMandateDetails').click(function(){
             }        
 
 
-            function gatherScheduleData(emi_frequency) {
+           function gatherScheduleData(emi_frequency) {
+    var loanCollectionAmountTotal = ($('input[name=loan_amount]').val()) || 0;
+    var emistartDate = new Date($('input[name=customer_start_date]').val());
+    var emiendDate = new Date($('input[name=customer_end_date]').val());
 
-                var loanCollectionAmountTotal = parseFloat($('input[name=loan_amount]').val()) || 0; // Get the loan collection amount
-                var emistartDate = new Date($('input[name=customer_start_date]').val()); // Start date
-                var emiendDate = new Date($('input[name=customer_end_date]').val()); // End date
+    console.log('emistartDate:', emistartDate);
+    console.log('emiendDate:', emiendDate);
+    
+    var scheduleData = [];
+    let totalEmiAmount = 0;
+    var validAmountCount = 0;
+    let warnings = new Set();
 
-                console.log('emistartDate'+emistartDate);
-                console.log('emiendDate'+emiendDate);
-                
+    $('#SchedulePreview tr input').removeClass('input-error');
 
-                var scheduleData = []; // Initialize the array for storing schedule data
-                let totalEmiAmount = 0; // Initialize total EMI amount
-                let validAmountCount = 0; // Initialize counter for valid amounts
-                let warnings = new Set(); // Use a Set to hold unique warnings for invalid dates
+    $('#SchedulePreview tr').each(function() {
+        var row = $(this);
+        var dateInput = row.find('input.datepicker');
+        var amountInput = row.find('input[name="amount"]').val();
+        
+        var date = dateInput.val();
+        // console.log('inputDate:', date);
+        
+        // var amount = parseFloat(amountInput) || 0; // Round the amount immediately
+        // console.log('amount:', amount);
 
-                // Clear any previous error highlights
-                $('#SchedulePreview tr input').removeClass('input-error');
+        if (amountInput) {
+            var selectedDate='';
 
-                // Loop through each row in the SchedulePreview table
-                $('#SchedulePreview tr').each(function() {
-                    var row = $(this);
-                    var dateInput = row.find('input.datepicker');  // Get the date input field
-                    
-                    var amountInput = row.find('input[name="amount"]').val();
-                    
-                    var date = dateInput.val();  // Get the date value
+            if (emi_frequency == 'ADHO') {
+                selectedDate = new Date(date);
+            } else {
+                let formattedDate = formatDateToDMY(date);
+                // console.log('not presented:', formattedDate);
 
-                    
-                    // Check if amount is filled
-                    if (amountInput) {
-                        // Convert the date string to a Date object for comparison
-                        var selectedDate = ''; 
-
-                        if (emi_frequency == 'ADHO') {
-                            selectedDate = new Date(date); // Assuming date is in a valid format
-                            console.log('presented:', selectedDate);
-                        } else {
-                            // Assuming formatDateToDMY returns a string in the 'DD-MM-YYYY' format
-                            let formattedDate = formatDateToDMY(date);
-                            console.log('not presented:', formattedDate);
-
-                            // Convert the formatted date back to a Date object if needed
-                            const parts = formattedDate.split('-'); // Split into parts
-                            if (parts.length === 3) {
-                                // Create a new Date object (Note: months are 0-based in JS)
-                                selectedDate = new Date(parts[2], parts[1] - 1, parts[0]); 
-                                console.log('Converted to Date object:', selectedDate);
-                            } else {
-                                console.error('Invalid date format:', formattedDate);
-                                selectedDate = null; // or handle the error as needed
-                            }
-                        }
-
-                        console.log('selectedDate:',selectedDate);
-
-                        // Check if the selected date is within the start and end dates
-                        if (selectedDate >= emistartDate && selectedDate <= emiendDate) {
-                            // If valid, push data into the array
-                            scheduleData.push({
-                                emi_date: date,
-                                emi_amount: amount
-                            });
-                            totalEmiAmount += amount; // Accumulate total EMI amount
-                            validAmountCount++; // Increase the valid amount count
-                        } else {
-                            // If the date is out of range, highlight the field and add a warning
-                            dateInput.addClass('input-error'); // Add an error class for invalid date
-                            
-                            // Use a Set to avoid duplicate warnings for the same date
-                            warnings.add(`Warning: The EMI date ${date} should be between ${emistartDate.toLocaleDateString()} and ${emiendDate.toLocaleDateString()}.`);
-
-                            // Still push the amount to scheduleData for processing, but without a valid date
-                            scheduleData.push({
-                                emi_date: date, // Still keep the invalid date
-                                emi_amount: amount // Keep the amount even if the date is invalid
-                            });
-                            totalEmiAmount += amount; // Accumulate total EMI amount
-                        }
-                    } else {
-                        // Highlight fields if they are empty
-                        if (!date) dateInput.addClass('input-error');
-                        if (!amount) amountInput.addClass('input-error');
-                        // warnings.add('Please fill in both date and amount fields.');
-                    }
-                });
-
-                // Convert the Set of warnings back to an array for returning
-                return {
-                    totalEmiAmount: totalEmiAmount, // Return the total EMI amount
-                    validAmountCount: validAmountCount, // Return the count of valid filled fields
-                    scheduleData: scheduleData, // Return the partial or full schedule data
-                    warnings: Array.from(warnings) // Return the unique warnings as an array
-                };
+                const parts = formattedDate.split('-');
+                if (parts.length === 3) {
+                    selectedDate = new Date(parts[2], parts[1] - 1, parts[0]); 
+                } else {
+                    // console.error('Invalid date format:', formattedDate);
+                    selectedDate = null;
+                }
             }
 
+            // console.log('selectedDate:', selectedDate);
+
+            if (selectedDate >= emistartDate && selectedDate <= emiendDate) {
+                scheduleData.push({
+                    emi_date: date,
+                    emi_amount: amountInput
+                });
+
+                totalEmiAmount = Number(totalEmiAmount) + Number(amountInput); // Accumulate total EMI amount
+                // totalEmiAmount = roundToTwo(totalEmiAmount); // Round the total after adding
+                    console.error('totalEmiAmount:', totalEmiAmount);
+
+
+                validAmountCount++;
+                
+            } else {
+                dateInput.addClass('input-error');
+                warnings.add(`Warning: The EMI date ${date} should be between ${emistartDate.toLocaleDateString()} and ${emiendDate.toLocaleDateString()}.`);
+                scheduleData.push({
+                    emi_date: date,
+                    emi_amount: amountInput
+                });
+                totalEmiAmount = Number(totalEmiAmount) + Number(amountInput); // Accumulate total EMI amount
+                // totalEmiAmount = roundToTwo(totalEmiAmount); // Round the total after adding
+            }
+        } else {
+            if (!date) dateInput.addClass('input-error');
+            if (!amount) amountInput.addClass('input-error');
+        }
+    });
+
+    totalEmiAmount = totalEmiAmount.toFixed(0);
+
+    // Log the final totals for debugging
+    console.log('Total EMI Amount:', totalEmiAmount);
+    console.log('Loan Collection Amount Total:', loanCollectionAmountTotal);
+    
+    console.log('validAmountCount:', validAmountCount);
+
+
+    return {
+        totalEmiAmount: totalEmiAmount,
+        validAmountCount: validAmountCount,
+        scheduleData: scheduleData,
+        warnings: Array.from(warnings)
+    };
+}
 
             $('#userDataMandate').on('click', '.item-verifyMandate', function(){ 
                 var mandate_customer_id = $(this).attr('data');
