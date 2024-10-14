@@ -1816,23 +1816,23 @@
                 }
 
                 function formatDateToISO(dateString) {
-    let day, month, year;
+                    let day, month, year;
 
-    // Handle various date formats (with or without time)
-    const datePart = dateString.includes(' ') ? dateString.split(' ')[0] : dateString;
-    const parts = datePart.split('-');
+                    // Handle various date formats (with or without time)
+                    const datePart = dateString.includes(' ') ? dateString.split(' ')[0] : dateString;
+                    const parts = datePart.split('-');
 
-    if (parts[0].length === 4) {
-        // If the first part is the year, it's already in "YYYY-MM-DD" format
-        [year, month, day] = parts;
-    } else {
-        // Otherwise, it's in "DD-MM-YYYY" format
-        [day, month, year] = parts;
-    }
+                    if (parts[0].length === 4) {
+                        // If the first part is the year, it's already in "YYYY-MM-DD" format
+                        [year, month, day] = parts;
+                    } else {
+                        // Otherwise, it's in "DD-MM-YYYY" format
+                        [day, month, year] = parts;
+                    }
 
-    // Return the formatted date as "yyyy-MM-dd"
-    return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
-}
+                    // Return the formatted date as "yyyy-MM-dd"
+                    return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
+                }
 
                 function showDynamicSchedule(mandate_customer_id)
                 {
@@ -1859,7 +1859,7 @@
                         var x = k + 1; 
 
                         var formattedDateForInput = formatDateToISO(scheduleData[k].emi_date);
-// var formattedDateDisplay = formatDateToDMY(scheduleData[k].emi_date);
+                        // var formattedDateDisplay = formatDateToDMY(scheduleData[k].emi_date);
 
                         // Format the date correctly for the date input
                         var formattedDate = formatDateToDMY(scheduleData[k].emi_date); 
@@ -3798,7 +3798,7 @@ $('#editMandateDetails').click(function(){
                           // document.getElementById("customer_end_date").readOnly=true;
 
 
-                          document.getElementById("transactionDate").classList.remove("is-invalid");
+                          // document.getElementById("transactionDate").classList.remove("is-invalid");
                           document.getElementById("loan_amount").classList.remove("is-invalid");
                           document.getElementById("bank_code").classList.remove("is-invalid");
                           // document.getElementById("amount").classList.remove("is-invalid");
@@ -3967,9 +3967,9 @@ $('#editMandateDetails').click(function(){
                                document.getElementById("customer_start_date").classList.add("is-invalid");
                             }
 
-                            else if(transactionDate==''){
-                               document.getElementById("transactionDate").classList.add("is-invalid");
-                            }
+                            // else if(transactionDate==''){
+                            //    document.getElementById("transactionDate").classList.add("is-invalid");
+                            // }
                     
                             else if(emi_count==''){
                                document.getElementById("emi_count").classList.add("is-invalid");
@@ -3979,9 +3979,9 @@ $('#editMandateDetails').click(function(){
                                document.getElementById("customer_end_date").classList.add("is-invalid");
                             }
 
-                            else if(transactionDate==''){
-                               document.getElementById("transactionDate").classList.add("is-invalid");
-                            }
+                            // else if(transactionDate==''){
+                            //    document.getElementById("transactionDate").classList.add("is-invalid");
+                            // }
 
                              else if(bank_account_no==''){
                                document.getElementById("bank_account_no").classList.add("is-invalid");
@@ -4424,7 +4424,7 @@ $('#editMandateDetails').click(function(){
 
                 totalEmiAmount = Number(totalEmiAmount) + Number(amountInput); // Accumulate total EMI amount
                 // totalEmiAmount = roundToTwo(totalEmiAmount); // Round the total after adding
-                    console.error('totalEmiAmount:', totalEmiAmount);
+                    // console.error('totalEmiAmount:', totalEmiAmount);
 
 
                 validAmountCount++;

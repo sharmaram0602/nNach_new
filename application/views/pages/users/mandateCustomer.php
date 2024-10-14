@@ -4086,97 +4086,97 @@ $('#editMandateDetails').click(function(){
             }        
 
 
-           function gatherScheduleData(emi_frequency) {
-    var loanCollectionAmountTotal = ($('input[name=loan_amount]').val()) || 0;
-    var emistartDate = new Date($('input[name=customer_start_date]').val());
-    var emiendDate = new Date($('input[name=customer_end_date]').val());
+            function gatherScheduleData(emi_frequency) {
+                var loanCollectionAmountTotal = ($('input[name=loan_amount]').val()) || 0;
+                var emistartDate = new Date($('input[name=customer_start_date]').val());
+                var emiendDate = new Date($('input[name=customer_end_date]').val());
 
-    console.log('emistartDate:', emistartDate);
-    console.log('emiendDate:', emiendDate);
-    
-    var scheduleData = [];
-    let totalEmiAmount = 0;
-    var validAmountCount = 0;
-    let warnings = new Set();
-
-    $('#SchedulePreview tr input').removeClass('input-error');
-
-    $('#SchedulePreview tr').each(function() {
-        var row = $(this);
-        var dateInput = row.find('input.datepicker');
-        var amountInput = row.find('input[name="amount"]').val();
-        
-        var date = dateInput.val();
-        // console.log('inputDate:', date);
-        
-        // var amount = parseFloat(amountInput) || 0; // Round the amount immediately
-        // console.log('amount:', amount);
-
-        if (amountInput) {
-            var selectedDate='';
-
-            if (emi_frequency == 'ADHO') {
-                selectedDate = new Date(date);
-            } else {
-                let formattedDate = formatDateToDMY(date);
-                // console.log('not presented:', formattedDate);
-
-                const parts = formattedDate.split('-');
-                if (parts.length === 3) {
-                    selectedDate = new Date(parts[2], parts[1] - 1, parts[0]); 
-                } else {
-                    // console.error('Invalid date format:', formattedDate);
-                    selectedDate = null;
-                }
-            }
-
-            // console.log('selectedDate:', selectedDate);
-
-            if (selectedDate >= emistartDate && selectedDate <= emiendDate) {
-                scheduleData.push({
-                    emi_date: date,
-                    emi_amount: amountInput
-                });
-
-                totalEmiAmount = Number(totalEmiAmount) + Number(amountInput); // Accumulate total EMI amount
-                // totalEmiAmount = roundToTwo(totalEmiAmount); // Round the total after adding
-                    console.error('totalEmiAmount:', totalEmiAmount);
-
-
-                validAmountCount++;
+                console.log('emistartDate:', emistartDate);
+                console.log('emiendDate:', emiendDate);
                 
-            } else {
-                dateInput.addClass('input-error');
-                warnings.add(`Warning: The EMI date ${date} should be between ${emistartDate.toLocaleDateString()} and ${emiendDate.toLocaleDateString()}.`);
-                scheduleData.push({
-                    emi_date: date,
-                    emi_amount: amountInput
+                var scheduleData = [];
+                let totalEmiAmount = 0;
+                var validAmountCount = 0;
+                let warnings = new Set();
+
+                $('#SchedulePreview tr input').removeClass('input-error');
+
+                $('#SchedulePreview tr').each(function() {
+                    var row = $(this);
+                    var dateInput = row.find('input.datepicker');
+                    var amountInput = row.find('input[name="amount"]').val();
+                    
+                    var date = dateInput.val();
+                    // console.log('inputDate:', date);
+                    
+                    // var amount = parseFloat(amountInput) || 0; // Round the amount immediately
+                    // console.log('amount:', amount);
+
+                    if (amountInput) {
+                        var selectedDate='';
+
+                        if (emi_frequency == 'ADHO') {
+                            selectedDate = new Date(date);
+                        } else {
+                            let formattedDate = formatDateToDMY(date);
+                            // console.log('not presented:', formattedDate);
+
+                            const parts = formattedDate.split('-');
+                            if (parts.length === 3) {
+                                selectedDate = new Date(parts[2], parts[1] - 1, parts[0]); 
+                            } else {
+                                // console.error('Invalid date format:', formattedDate);
+                                selectedDate = null;
+                            }
+                        }
+
+                        // console.log('selectedDate:', selectedDate);
+
+                        if (selectedDate >= emistartDate && selectedDate <= emiendDate) {
+                            scheduleData.push({
+                                emi_date: date,
+                                emi_amount: amountInput
+                            });
+
+                            totalEmiAmount = Number(totalEmiAmount) + Number(amountInput); // Accumulate total EMI amount
+                            // totalEmiAmount = roundToTwo(totalEmiAmount); // Round the total after adding
+                                console.error('totalEmiAmount:', totalEmiAmount);
+
+
+                            validAmountCount++;
+                            
+                        } else {
+                            dateInput.addClass('input-error');
+                            warnings.add(`Warning: The EMI date ${date} should be between ${emistartDate.toLocaleDateString()} and ${emiendDate.toLocaleDateString()}.`);
+                            scheduleData.push({
+                                emi_date: date,
+                                emi_amount: amountInput
+                            });
+                            totalEmiAmount = Number(totalEmiAmount) + Number(amountInput); // Accumulate total EMI amount
+                            // totalEmiAmount = roundToTwo(totalEmiAmount); // Round the total after adding
+                        }
+                    } else {
+                        if (!date) dateInput.addClass('input-error');
+                        if (!amount) amountInput.addClass('input-error');
+                    }
                 });
-                totalEmiAmount = Number(totalEmiAmount) + Number(amountInput); // Accumulate total EMI amount
-                // totalEmiAmount = roundToTwo(totalEmiAmount); // Round the total after adding
+
+                totalEmiAmount = totalEmiAmount.toFixed(0);
+
+                // Log the final totals for debugging
+                console.log('Total EMI Amount:', totalEmiAmount);
+                console.log('Loan Collection Amount Total:', loanCollectionAmountTotal);
+                
+                console.log('validAmountCount:', validAmountCount);
+
+
+                return {
+                    totalEmiAmount: totalEmiAmount,
+                    validAmountCount: validAmountCount,
+                    scheduleData: scheduleData,
+                    warnings: Array.from(warnings)
+                };
             }
-        } else {
-            if (!date) dateInput.addClass('input-error');
-            if (!amount) amountInput.addClass('input-error');
-        }
-    });
-
-    totalEmiAmount = totalEmiAmount.toFixed(0);
-
-    // Log the final totals for debugging
-    console.log('Total EMI Amount:', totalEmiAmount);
-    console.log('Loan Collection Amount Total:', loanCollectionAmountTotal);
-    
-    console.log('validAmountCount:', validAmountCount);
-
-
-    return {
-        totalEmiAmount: totalEmiAmount,
-        validAmountCount: validAmountCount,
-        scheduleData: scheduleData,
-        warnings: Array.from(warnings)
-    };
-}
 
             $('#userDataMandate').on('click', '.item-verifyMandate', function(){ 
                 var mandate_customer_id = $(this).attr('data');

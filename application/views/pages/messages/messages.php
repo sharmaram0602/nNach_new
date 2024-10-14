@@ -101,11 +101,22 @@
                      <div id="messageFrequencyDiv" class="messageFrequencyDiv" style="display: none;">
                         <div class="row">
                             <div class="col-xl-12">
-                                <form class="row g-3 mb-6" id="messageFrequencyFormData">        
-                                    <div class="col-sm-6 col-md-4">
-                                        <label class="form-label" for="dayBeforeDebitDate">Day Before of Debit/After Date</label>
+                                <form class="row g-3 mb-6" id="messageFrequencyFormData">     
+
+                                    <div class="col-sm-6 col-md-2" >
+                                        <label class="form-label" for="selectType">Before/After</label>
+                                        <select class="form-select" id="selectType" name="selectType">
+                                            <option value="">Select Type...</option>
+                                            <option value="Before">Before</option>
+                                            <option value="After">After</option>
+                                       
+                                        </select>
+                                    </div>
+
+                                    <div class="col-sm-6 col-md-3">
+                                        <label class="form-label" for="dayBeforeDebitDate">Day Before/After</label>
                                         <select class="form-select" id="dayBeforeDebitDate" name="dayBeforeDebitDate">
-                                            <option value="">Select Day Before of Debit Date ...</option>
+                                            <option value="">Select Day Before/After ...</option>
                                             <option value="1">1</option>
                                             <option value="2">2</option>
                                             <option value="3">3</option>
@@ -138,7 +149,7 @@
                                             <option value="30">30</option>
                                         </select>
                                     </div>
-                                    <div class="col-sm-6 col-md-4" >
+                                    <div class="col-sm-6 col-md-3" >
                                         <label class="form-label" for="messageCount">Message Count Per-day</label>
                                         <select class="form-select" id="messageCount" name="messageCount">
                                             <option value="">Select Message Count ...</option>
@@ -554,6 +565,8 @@
                         sendSetting.frequencies.forEach(function (frequency, index) {
                             frequencyCounter++; // Increment the counter for unique IDs
 
+                            console.log(frequency);
+                            var selectType = frequency.messeagesendType;
                             var dayBeforeDebitDate = frequency.dayBeforeDebitDate;
                             var messageCount = frequency.messageCount;
                             var timePickers = frequency.timePickers || [];
@@ -564,11 +577,14 @@
                             // Give the new div a unique ID 
                             var newDivId = `messageFrequencyDiv_${frequencyCounter}`;
                             newDiv.attr('id', newDivId);
+                            newDiv.find('#selectType').attr('id', `selectType_${frequencyCounter}`);
                             newDiv.find('#dayBeforeDebitDate').attr('id', `dayBeforeDebitDate_${frequencyCounter}`);
                             newDiv.find('#messageCount').attr('id', `messageCount_${frequencyCounter}`);
                             newDiv.find('#timepicker').attr('id', `timepicker_${frequencyCounter}`);
 
                             // Update the fields for dayBeforeDebitDate and messageCount
+                            newDiv.find(`#selectType_${frequencyCounter}`).val(selectType);
+
                             newDiv.find(`#dayBeforeDebitDate_${frequencyCounter}`).val(dayBeforeDebitDate);
                             newDiv.find(`#messageCount_${frequencyCounter}`).val(messageCount);
 
@@ -704,7 +720,7 @@
 
                             // Update the ID for the cloned div
                             newDiv.attr('id', 'messageFrequencyDiv_' + frequencyCounter);
-
+                            newDiv.find('#selectType').attr('id', 'selectType_' + frequencyCounter);
                             // Update IDs for unique elements in the cloned div
                             newDiv.find('#dayBeforeDebitDate').attr('id', 'dayBeforeDebitDate_' + frequencyCounter);
                             newDiv.find('#timepicker').attr('id', 'timepicker_' + frequencyCounter);
@@ -835,6 +851,7 @@ $(document).on('click', '#btnSaveMessageFrequency', function() {
 
     $('.messageFrequencyDiv').each(function() {
         const frequencyData = {
+            messeagesendType : $(this).find('select[name="selectType"]').val(),
             dayBeforeDebitDate: $(this).find('select[name="dayBeforeDebitDate"]').val(),
             messageCount: $(this).find('select[name="messageCount"]').val(),
             timePickers: []
