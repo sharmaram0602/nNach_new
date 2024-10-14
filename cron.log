@@ -1,0 +1,4113 @@
+No direct script access allowedRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Wed, 5 Jun 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;665fdbbbad352@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_665fdbbbad369&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_665fdbbbad369
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय BHUSHAN RAVINDRA SONAR,
+रुपये 2784 चा EMI 2024-06-07 11:59:45 रोजी,
+खाते क्रमांक , कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 50100249130571 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2784
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_665fdbbbad369
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF BHUSHAN RAVINDRA SONAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2784 =E0=A4=9A=E0=A4=BE EMI 2=
+024-06-07 11:59:45 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 , =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=E0=A4=
+=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=E0=A5=
+=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=E0=A4=
+=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=E0=A4=
+=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=
+=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=
+=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=
+=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 50100249130571 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2784 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_665fdbbbad369--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sat, 8 Jun 2024 03:30:51 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;6663d06b3a600@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_6663d06b3a61a&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_6663d06b3a61a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय KETAN DINESH KOLI,
+रुपये 3500 चा EMI 2024-06-10 09:44:20 रोजी,
+खाते क्रमांक 1700051, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 60083456118 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3500
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_6663d06b3a61a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF KETAN DINESH KOLI,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=9A=E0=A4=BE EMI 2=
+024-06-10 09:44:20 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700051, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 60083456118 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_6663d06b3a61a--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sun, 9 Jun 2024 03:30:02 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;666521baf1dac@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_666521baf1dcd&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_666521baf1dcd
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय HARESH BHAGAVAN PATIL,
+रुपये 4175 चा EMI 2024-06-11 09:46:00 रोजी,
+खाते क्रमांक 1200200, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 092701508301 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 4175
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_666521baf1dcd
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF HARESH BHAGAVAN PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=9A=E0=A4=BE EMI 2=
+024-06-11 09:46:00 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1200200, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 092701508301 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_666521baf1dcd--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Mon, 10 Jun 2024 03:30:04 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;6666733c7c004@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_6666733c7c026&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_6666733c7c026
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय RUTIK SUNIL PATIL,
+रुपये 5200 चा EMI 2024-06-12 06:51:13 रोजी,
+खाते क्रमांक 1200196, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 0332104000146432 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 5200
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_6666733c7c026
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF RUTIK SUNIL PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5200 =E0=A4=9A=E0=A4=BE EMI 2=
+024-06-12 06:51:13 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1200196, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 0332104000146432 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5200 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_6666733c7c026--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Thu, 13 Jun 2024 03:30:24 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;666a67d029cb0@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_666a67d029cbe&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_666a67d029cbe
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय ROSHAN HARIBHAU PATIL,
+रुपये 4175 चा EMI 2024-06-15 07:45:12 रोजी,
+खाते क्रमांक , कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 50100430920626 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 4175
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_666a67d029cbe
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF ROSHAN HARIBHAU PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=9A=E0=A4=BE EMI 2=
+024-06-15 07:45:12 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 , =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=E0=A4=
+=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=E0=A5=
+=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=E0=A4=
+=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=E0=A4=
+=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=
+=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=
+=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=
+=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 50100430920626 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_666a67d029cbe--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre>Failed to send AUTH LOGIN command. Error: 454 4.7.0 Temporary authentication failure: Connection lost to authentication server
+<br />Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Fri, 14 Jun 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;666bb93bbd1bf@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_666bb93bbd1d7&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_666bb93bbd1d7
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय MANGESH BALARAM PATIL,
+रुपये 3569 चा EMI 2024-06-16 08:24:41 रोजी,
+खाते क्रमांक 600480, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 00000037951320221 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3569
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_666bb93bbd1d7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF MANGESH BALARAM PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3569 =E0=A4=9A=E0=A4=BE EMI 2=
+024-06-16 08:24:41 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 600480, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 00000037951320221 =E0=A4=AE=
+=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=
+=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=
+=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=
+=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=
+=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=
+=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3569 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=
+=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=
+=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=
+=A4=B5=E0=A4=BE.
+
+--B_ALT_666bb93bbd1d7--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 18 Jun 2024 03:30:13 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;6670ff45aadb9@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_6670ff45aadd2&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_6670ff45aadd2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय PRAVIN MAHADEV PATIL,
+रुपये 2800 चा EMI 2024-06-20 07:12:52 रोजी,
+खाते क्रमांक 1700049, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 54872250008479 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2800
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_6670ff45aadd2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF PRAVIN MAHADEV PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2800 =E0=A4=9A=E0=A4=BE EMI 2=
+024-06-20 07:12:52 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700049, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 54872250008479 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2800 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_6670ff45aadd2--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHi
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /home/556538.cloudwaysapps.com/epevadqthy/public_html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 211
+
+Backtrace:
+	File: /home/556538.cloudwaysapps.com/epevadqthy/public_html/application/core/MY_Controller.php
+	Line: 7
+	Function: __construct
+
+	File: /home/556538.cloudwaysapps.com/epevadqthy/public_html/application/core/MY_Controller.php
+	Line: 18
+	Function: __construct
+
+	File: /home/556538.cloudwaysapps.com/epevadqthy/public_html/application/controllers/Cronjob.php
+	Line: 9
+	Function: __construct
+
+	File: /home/556538.cloudwaysapps.com/epevadqthy/public_html/index.php
+	Line: 317
+	Function: require_once
+
+
+
+Database error: A Database Error Occurred
+
+	Unable to connect to your database server using the provided settings.
+	Filename: core/MY_Controller.php
+	Line Number: 7
+
+
+A PHP Error was encountered
+
+Severity:    Warning
+Message:     mysqli::real_connect(): (HY000/2002): Connection refused
+Filename:    /home/556538.cloudwaysapps.com/epevadqthy/public_html/system/database/drivers/mysqli/mysqli_driver.php
+Line Number: 211
+
+Backtrace:
+	File: /home/556538.cloudwaysapps.com/epevadqthy/public_html/application/core/MY_Controller.php
+	Line: 7
+	Function:Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sat, 29 Jun 2024 03:30:05 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;667f7fbd3ed67@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_667f7fbd3ed87&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_667f7fbd3ed87
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय ABHIJIT DATTATREY SALUNKHE,
+रुपये 3500 चा EMI 2024-06-01 10:43:34 रोजी,
+खाते क्रमांक 1600101, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 911010035272487 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3500
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_667f7fbd3ed87
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF ABHIJIT DATTATREY SALUNKHE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=9A=E0=A4=BE EMI 2=
+024-06-01 10:43:34 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1600101, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 911010035272487 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_667f7fbd3ed87--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sun, 30 Jun 2024 03:30:04 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;6680d13c0c724@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_6680d13c0c744&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_6680d13c0c744
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय SMITA RAMESH YERUNKAR,
+रुपये 4252 चा EMI 2024-06-02 05:55:05 रोजी,
+खाते क्रमांक 1700060, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 120610110004478 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 4252
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_6680d13c0c744
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF SMITA RAMESH YERUNKAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4252 =E0=A4=9A=E0=A4=BE EMI 2=
+024-06-02 05:55:05 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700060, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 120610110004478 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4252 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_6680d13c0c744--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Mon, 1 Jul 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;668222bbc3dc5@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_668222bbc3de7&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_668222bbc3de7
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय JAYESH PRABHAKAR PATIL,
+रुपये 3570 चा EMI 2024-07-03 07:24:38 रोजी,
+खाते क्रमांक 1700055, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 20051755769 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3570
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_668222bbc3de7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF JAYESH PRABHAKAR PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3570 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-03 07:24:38 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700055, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 20051755769 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3570 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_668222bbc3de7--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Wed, 3 Jul 2024 03:31:06 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;6684c5fa7ac42@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_6684c5fa7ac62&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_6684c5fa7ac62
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय AMRUT DHAWLYA BHOIR,
+रुपये 21830 चा EMI 2024-07-05 08:53:24 रोजी,
+खाते क्रमांक {{4}}, कर्ज प्रकार
+{{5}} साठी देय आहे. तुमच्या खाते
+क्रमांक 11196924914 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 21830
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_6684c5fa7ac62
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF AMRUT DHAWLYA BHOIR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 21830 =E0=A4=9A=E0=A4=BE EMI =
+2024-07-05 08:53:24 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=
+=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=
+=82=E0=A4=95 =7B=7B4=7D=7D, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=
+=E0=A5=8D=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =7B=7B5=7D=7D =E0=A4=B8=E0=A4=
+=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=A4=86=E0=A4=B9=E0=A5=
+=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=
+=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=
+=BE=E0=A4=82=E0=A4=95 11196924914 =E0=A4=AE=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =
+=E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=
+=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=
+=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=
+=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=
+=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=
+=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=
+=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=
+=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=
+=A5=87 21830 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=
+=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=
+=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=A4=BE.
+
+--B_ALT_6684c5fa7ac62--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Fri, 5 Jul 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;668768bbc4ba2@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_668768bbc4bc4&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_668768bbc4bc4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय BHUSHAN RAVINDRA SONAR,
+रुपये 2784 चा EMI 2024-07-07 11:59:45 रोजी,
+खाते क्रमांक , कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 50100249130571 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2784
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_668768bbc4bc4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF BHUSHAN RAVINDRA SONAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2784 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-07 11:59:45 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 , =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=E0=A4=
+=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=E0=A5=
+=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=E0=A4=
+=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=E0=A4=
+=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=
+=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=
+=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=
+=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 50100249130571 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2784 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_668768bbc4bc4--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Mon, 8 Jul 2024 03:31:00 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;668b5d74bfbf9@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_668b5d74bfc20&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_668b5d74bfc20
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय RAJIL VALLIMAHMAD AUSEKAR,
+रुपये 2600 चा EMI 2024-07-10 10:58:14 रोजी,
+खाते क्रमांक {{4}}, कर्ज प्रकार
+{{5}} साठी देय आहे. तुमच्या खाते
+क्रमांक 32226157153 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2600
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_668b5d74bfc20
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF RAJIL VALLIMAHMAD AUSEKAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2600 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-10 10:58:14 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 =7B=7B4=7D=7D, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=
+=A5=8D=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =7B=7B5=7D=7D =E0=A4=B8=E0=A4=BE=
+=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=A4=86=E0=A4=B9=E0=A5=87.=
+ =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=
+=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=
+=E0=A4=82=E0=A4=95 32226157153 =E0=A4=AE=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=
+=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=
+=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=
+=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=
+=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=
+=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=
+=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=
+=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=
+=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=
+=87 2600 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=
+=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=
+=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=A4=BE.
+
+--B_ALT_668b5d74bfc20--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 9 Jul 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;668caebb5ef26@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_668caebb5ef3e&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_668caebb5ef3e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय HARESH BHAGAVAN PATIL,
+रुपये 4175 चा EMI 2024-07-11 09:46:00 रोजी,
+खाते क्रमांक 1200200, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 092701508301 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 4175
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_668caebb5ef3e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF HARESH BHAGAVAN PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-11 09:46:00 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1200200, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 092701508301 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_668caebb5ef3e--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Wed, 10 Jul 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;668e003b1bc72@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_668e003b1bc96&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_668e003b1bc96
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय RUTIK SUNIL PATIL,
+रुपये 5200 चा EMI 2024-07-12 06:51:13 रोजी,
+खाते क्रमांक 1200196, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 0332104000146432 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 5200
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_668e003b1bc96
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF RUTIK SUNIL PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5200 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-12 06:51:13 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1200196, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 0332104000146432 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5200 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_668e003b1bc96--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sat, 13 Jul 2024 03:30:41 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;6691f4e11c384@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_6691f4e11c3a0&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_6691f4e11c3a0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय SAIFULLAH HASANMIYA FIRFIRE,
+रुपये 5500 चा EMI 2024-07-15 05:42:24 रोजी,
+खाते क्रमांक {{4}}, कर्ज प्रकार
+{{5}} साठी देय आहे. तुमच्या खाते
+क्रमांक 68007648766 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 5500
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_6691f4e11c3a0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF SAIFULLAH HASANMIYA FIRFIRE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5500 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-15 05:42:24 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 =7B=7B4=7D=7D, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=
+=A5=8D=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =7B=7B5=7D=7D =E0=A4=B8=E0=A4=BE=
+=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=A4=86=E0=A4=B9=E0=A5=87.=
+ =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=
+=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=
+=E0=A4=82=E0=A4=95 68007648766 =E0=A4=AE=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=
+=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=
+=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=
+=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=
+=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=
+=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=
+=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=
+=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=
+=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=
+=87 5500 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=
+=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=
+=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=A4=BE.
+
+--B_ALT_6691f4e11c3a0--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sun, 14 Jul 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;6693463b06ab5@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_6693463b06acf&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_6693463b06acf
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय MANGESH BALARAM PATIL,
+रुपये 3569 चा EMI 2024-07-16 08:24:41 रोजी,
+खाते क्रमांक 600480, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 00000037951320221 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3569
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_6693463b06acf
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF MANGESH BALARAM PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3569 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-16 08:24:41 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 600480, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 00000037951320221 =E0=A4=AE=
+=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=
+=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=
+=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=
+=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=
+=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=
+=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3569 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=
+=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=
+=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=
+=A4=B5=E0=A4=BE.
+
+--B_ALT_6693463b06acf--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Thu, 18 Jul 2024 03:30:30 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66988c56730bd@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66988c56730d0&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66988c56730d0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय PRAVIN MAHADEV PATIL,
+रुपये 2800 चा EMI 2024-07-20 07:12:52 रोजी,
+खाते क्रमांक 1700049, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 54872250008479 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2800
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66988c56730d0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF PRAVIN MAHADEV PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2800 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-20 07:12:52 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700049, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 54872250008479 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2800 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_66988c56730d0--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 23 Jul 2024 03:30:04 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;669f23bc42b9d@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_669f23bc42bbe&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_669f23bc42bbe
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय JAYAVNTI ANIRUDHA MHATRE,
+रुपये 2100 चा EMI 2024-07-25 08:34:58 रोजी,
+खाते क्रमांक , कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 42386859391 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2100
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_669f23bc42bbe
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF JAYAVNTI ANIRUDHA MHATRE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2100 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-25 08:34:58 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 , =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=E0=A4=
+=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=E0=A5=
+=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=E0=A4=
+=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=E0=A4=
+=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=
+=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=
+=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=
+=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 42386859391 =E0=A4=AE=E0=A4=A7=
+=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=
+=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=
+=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=
+=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=
+=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=
+=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=
+=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=
+=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=
+=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2100 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=
+=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=
+=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=
+=A4=BE.
+
+--B_ALT_669f23bc42bbe--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 30 Jul 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66a85e3b44520@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66a85e3b4453a&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66a85e3b4453a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय ABHIJIT DATTATREY SALUNKHE,
+रुपये 3500 चा EMI 2024-07-01 10:43:34 रोजी,
+खाते क्रमांक 1600101, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 911010035272487 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3500
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66a85e3b4453a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF ABHIJIT DATTATREY SALUNKHE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-01 10:43:34 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1600101, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 911010035272487 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_66a85e3b4453a--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Wed, 31 Jul 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66a9afbb9e677@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66a9afbb9e690&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66a9afbb9e690
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय SMITA RAMESH YERUNKAR,
+रुपये 4252 चा EMI 2024-07-02 05:55:05 रोजी,
+खाते क्रमांक 1700060, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 120610110004478 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 4252
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66a9afbb9e690
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF SMITA RAMESH YERUNKAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4252 =E0=A4=9A=E0=A4=BE EMI 2=
+024-07-02 05:55:05 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700060, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 120610110004478 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4252 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_66a9afbb9e690--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Thu, 1 Aug 2024 03:30:02 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66ab013a79f88@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66ab013a79fab&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66ab013a79fab
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय JAYESH PRABHAKAR PATIL,
+रुपये 3570 चा EMI 2024-08-03 07:24:38 रोजी,
+खाते क्रमांक 1700055, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 20051755769 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3570
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66ab013a79fab
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF JAYESH PRABHAKAR PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3570 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-03 07:24:38 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700055, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 20051755769 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3570 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_66ab013a79fab--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sat, 3 Aug 2024 03:30:55 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66ada46fceab1@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66ada46fceada&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66ada46fceada
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय AMRUT DHAWLYA BHOIR,
+रुपये 21830 चा EMI 2024-08-05 08:53:24 रोजी,
+खाते क्रमांक {{4}}, कर्ज प्रकार
+{{5}} साठी देय आहे. तुमच्या खाते
+क्रमांक 11196924914 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 21830
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66ada46fceada
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF AMRUT DHAWLYA BHOIR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 21830 =E0=A4=9A=E0=A4=BE EMI =
+2024-08-05 08:53:24 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=
+=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=
+=82=E0=A4=95 =7B=7B4=7D=7D, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=
+=E0=A5=8D=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =7B=7B5=7D=7D =E0=A4=B8=E0=A4=
+=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=A4=86=E0=A4=B9=E0=A5=
+=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=
+=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=
+=BE=E0=A4=82=E0=A4=95 11196924914 =E0=A4=AE=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =
+=E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=
+=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=
+=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=
+=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=
+=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=
+=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=
+=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=
+=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=
+=A5=87 21830 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=
+=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=
+=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=A4=BE.
+
+--B_ALT_66ada46fceada--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Mon, 5 Aug 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66b0473b55775@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66b0473b5579f&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66b0473b5579f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय BHUSHAN RAVINDRA SONAR,
+रुपये 2784 चा EMI 2024-08-07 11:59:45 रोजी,
+खाते क्रमांक , कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 50100249130571 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2784
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66b0473b5579f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF BHUSHAN RAVINDRA SONAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2784 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-07 11:59:45 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 , =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=E0=A4=
+=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=E0=A5=
+=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=E0=A4=
+=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=E0=A4=
+=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=
+=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=
+=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=
+=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 50100249130571 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2784 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_66b0473b5579f--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Thu, 8 Aug 2024 03:31:23 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66b43c0b4d3c8@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66b43c0b4d3f3&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66b43c0b4d3f3
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय RAJIL VALLIMAHMAD AUSEKAR,
+रुपये 2600 चा EMI 2024-08-10 10:58:14 रोजी,
+खाते क्रमांक {{4}}, कर्ज प्रकार
+{{5}} साठी देय आहे. तुमच्या खाते
+क्रमांक 32226157153 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2600
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66b43c0b4d3f3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF RAJIL VALLIMAHMAD AUSEKAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2600 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-10 10:58:14 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 =7B=7B4=7D=7D, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=
+=A5=8D=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =7B=7B5=7D=7D =E0=A4=B8=E0=A4=BE=
+=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=A4=86=E0=A4=B9=E0=A5=87.=
+ =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=
+=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=
+=E0=A4=82=E0=A4=95 32226157153 =E0=A4=AE=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=
+=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=
+=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=
+=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=
+=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=
+=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=
+=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=
+=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=
+=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=
+=87 2600 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=
+=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=
+=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=A4=BE.
+
+--B_ALT_66b43c0b4d3f3--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Fri, 9 Aug 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66b58d3bc014f@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66b58d3bc0175&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66b58d3bc0175
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय HARESH BHAGAVAN PATIL,
+रुपये 4175 चा EMI 2024-08-11 09:46:00 रोजी,
+खाते क्रमांक 1200200, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 092701508301 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 4175
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66b58d3bc0175
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF HARESH BHAGAVAN PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-11 09:46:00 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1200200, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 092701508301 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_66b58d3bc0175--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sat, 10 Aug 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66b6debb7abb2@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66b6debb7abd4&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66b6debb7abd4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय RUTIK SUNIL PATIL,
+रुपये 5200 चा EMI 2024-08-12 06:51:13 रोजी,
+खाते क्रमांक 1200196, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 0332104000146432 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 5200
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66b6debb7abd4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF RUTIK SUNIL PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5200 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-12 06:51:13 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1200196, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 03321Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 13 Aug 2024 03:30:51 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66bad36bdbfaa@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66bad36bdbfd9&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66bad36bdbfd9
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय SAIFULLAH HASANMIYA FIRFIRE,
+रुपये 5500 चा EMI 2024-08-15 05:42:24 रोजी,
+खाते क्रमांक {{4}}, कर्ज प्रकार
+{{5}} साठी देय आहे. तुमच्या खाते
+क्रमांक 68007648766 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 5500
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66bad36bdbfd9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF SAIFULLAH HASANMIYA FIRFIRE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5500 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-15 05:42:24 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 =7B=7B4=7D=7D, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=
+=A5=8D=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =7B=7B5=7D=7D =E0=A4=B8=E0=A4=BE=
+=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=A4=86=E0=A4=B9=E0=A5=87.=
+ =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=
+=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=
+=E0=A4=82=E0=A4=95 68007648766 =E0=A4=AE=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=
+=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=
+=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=
+=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=
+=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=
+=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=
+=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=
+=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=
+=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=
+=87 5500 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=
+=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=
+=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=A4=BE.
+
+--B_ALT_66bad36bdbfd9--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Wed, 14 Aug 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66bc24bbefb67@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66bc24bbefb8b&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66bc24bbefb8b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय MANGESH BALARAM PATIL,
+रुपये 3569 चा EMI 2024-08-16 08:24:41 रोजी,
+खाते क्रमांक 600480, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 00000037951320221 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3569
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66bc24bbefb8b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF MANGESH BALARAM PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3569 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-16 08:24:41 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 600480, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 00000037951320221 =E0=A4=AE=
+=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=
+=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=
+=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=
+=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=
+=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=
+=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3569 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=
+=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=
+=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=
+=A4=B5=E0=A4=BE.
+
+--B_ALT_66bc24bbefb8b--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sun, 18 Aug 2024 03:30:49 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66c16ae93396d@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66c16ae933980&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66c16ae933980
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय PRAVIN MAHADEV PATIL,
+रुपये 2800 चा EMI 2024-08-20 07:12:52 रोजी,
+खाते क्रमांक 1700049, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 54872250008479 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2800
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66c16ae933980
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF PRAVIN MAHADEV PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2800 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-20 07:12:52 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700049, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 54872250008479 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2800 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_66c16ae933980--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Fri, 23 Aug 2024 03:30:05 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66c8023d2c7e3@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66c8023d2c807&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66c8023d2c807
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय JAYAVNTI ANIRUDHA MHATRE,
+रुपये 2100 चा EMI 2024-08-25 08:34:58 रोजी,
+खाते क्रमांक , कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 42386859391 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2100
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66c8023d2c807
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF JAYAVNTI ANIRUDHA MHATRE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2100 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-25 08:34:58 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 , =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=E0=A4=
+=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=E0=A5=
+=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=E0=A4=
+=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=E0=A4=
+=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=
+=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=
+=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=
+=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 42386859391 =E0=A4=AE=E0=A4=A7=
+=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=
+=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=
+=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=
+=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=
+=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=
+=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=
+=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=
+=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=
+=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2100 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=
+=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=
+=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=
+=A4=BE.
+
+--B_ALT_66c8023d2c807--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Fri, 30 Aug 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66d13cbb9fe8f@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66d13cbb9feb8&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66d13cbb9feb8
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय ABHIJIT DATTATREY SALUNKHE,
+रुपये 3500 चा EMI 2024-08-01 10:43:34 रोजी,
+खाते क्रमांक 1600101, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 911010035272487 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3500
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66d13cbb9feb8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF ABHIJIT DATTATREY SALUNKHE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=9A=E0=A4=BE EMI 2=
+024-08-01 10:43:34 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1600101, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 911010035272487 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_66d13cbb9feb8--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</prRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sun, 1 Sep 2024 03:30:04 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66d3dfbc8446e@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66d3dfbc8448a&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66d3dfbc8448a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय JAYESH PRABHAKAR PATIL,
+रुपये 3570 चा EMI 2024-09-03 07:24:38 रोजी,
+खाते क्रमांक 1700055, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 20051755769 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3570
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66d3dfbc8448a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF JAYESH PRABHAKAR PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3570 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-03 07:24:38 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700055, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 20051755769 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3570 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_66d3dfbc8448a--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 3 Sep 2024 03:30:53 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66d682ed162e7@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66d682ed16388&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66d682ed16388
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय AMRUT DHAWLYA BHOIR,
+रुपये 21830 चा EMI 2024-09-05 08:53:24 रोजी,
+खाते क्रमांक {{4}}, कर्ज प्रकार
+{{5}} साठी देय आहे. तुमच्या खाते
+क्रमांक 11196924914 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 21830
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66d682ed16388
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF AMRUT DHAWLYA BHOIR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 21830 =E0=A4=9A=E0=A4=BE EMI =
+2024-09-05 08:53:24 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=
+=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=
+=82=E0=A4=95 =7B=7B4=7D=7D, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=
+=E0=A5=8D=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =7B=7B5=7D=7D =E0=A4=B8=E0=A4=
+=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=A4=86=E0=A4=B9=E0=A5=
+=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=
+=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=
+=BE=E0=A4=82=E0=A4=95 11196924914 =E0=A4=AE=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =
+=E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=
+=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=
+=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=
+=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=
+=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=
+=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=
+=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=
+=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=
+=A5=87 21830 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=
+=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=
+=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=A4=BE.
+
+--B_ALT_66d682ed16388--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Thu, 5 Sep 2024 03:30:04 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66d925bc5b6fd@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66d925bc5b723&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66d925bc5b723
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय BHUSHAN RAVINDRA SONAR,
+रुपये 2784 चा EMI 2024-09-07 11:59:45 रोजी,
+खाते क्रमांक , कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 50100249130571 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2784
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66d925bc5b723
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF BHUSHAN RAVINDRA SONAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2784 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-07 11:59:45 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 , =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=E0=A4=
+=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=E0=A5=
+=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=E0=A4=
+=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=E0=A4=
+=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=
+=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=
+=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=
+=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 50100249130571 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2784 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_66d925bc5b723--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sun, 8 Sep 2024 03:31:41 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66dd1a9d032d5@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66dd1a9d032ef&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66dd1a9d032ef
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय RAJIL VALLIMAHMAD AUSEKAR,
+रुपये 2600 चा EMI 2024-09-10 10:58:14 रोजी,
+खाते क्रमांक {{4}}, कर्ज प्रकार
+{{5}} साठी देय आहे. तुमच्या खाते
+क्रमांक 32226157153 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2600
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66dd1a9d032ef
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF RAJIL VALLIMAHMAD AUSEKAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2600 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-10 10:58:14 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 =7B=7B4=7D=7D, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=
+=A5=8D=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =7B=7B5=7D=7D =E0=A4=B8=E0=A4=BE=
+=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=A4=86=E0=A4=B9=E0=A5=87.=
+ =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=
+=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=
+=E0=A4=82=E0=A4=95 32226157153 =E0=A4=AE=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=
+=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=
+=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=
+=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=
+=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=
+=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=
+=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=
+=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=
+=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=
+=87 2600 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=
+=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=
+=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=A4=BE.
+
+--B_ALT_66dd1a9d032ef--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Mon, 9 Sep 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66de6bbb4a9d1@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66de6bbb4a9f6&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66de6bbb4a9f6
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय HARESH BHAGAVAN PATIL,
+रुपये 4175 चा EMI 2024-09-11 09:46:00 रोजी,
+खाते क्रमांक 1200200, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 092701508301 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 4175
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66de6bbb4a9f6
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF HARESH BHAGAVAN PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-11 09:46:00 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1200200, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 092701508301 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_66de6bbb4a9f6--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 10 Sep 2024 03:30:05 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66dfbd3dc4656@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66dfbd3dc466e&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66dfbd3dc466e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय RUTIK SUNIL PATIL,
+रुपये 5200 चा EMI 2024-09-12 06:51:13 रोजी,
+खाते क्रमांक 1200196, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 0332104000146432 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 5200
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66dfbd3dc466e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF RUTIK SUNIL PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5200 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-12 06:51:13 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1200196, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 0332104000146432 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5200 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_66dfbd3dc466e--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Fri, 13 Sep 2024 03:31:23 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66e3b20bbd428@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66e3b20bbd453&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66e3b20bbd453
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय SAIFULLAH HASANMIYA FIRFIRE,
+रुपये 5500 चा EMI 2024-09-15 05:42:24 रोजी,
+खाते क्रमांक {{4}}, कर्ज प्रकार
+{{5}} साठी देय आहे. तुमच्या खाते
+क्रमांक 68007648766 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 5500
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66e3b20bbd453
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF SAIFULLAH HASANMIYA FIRFIRE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 5500 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-15 05:42:24 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 =7B=7B4=7D=7D, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=
+=A5=8D=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =7B=7B5=7D=7D =E0=A4=B8=E0=A4=BE=
+=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=A4=86=E0=A4=B9=E0=A5=87.=
+ =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=
+=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=
+=E0=A4=82=E0=A4=95 68007648766 =E0=A4=AE=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=
+=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=
+=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=
+=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=
+=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=
+=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=
+=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=
+=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=
+=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=
+=87 5500 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=
+=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=
+=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=A4=BE.
+
+--B_ALT_66e3b20bbd453--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sat, 14 Sep 2024 03:30:03 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66e5033b30b30@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66e5033b30b54&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66e5033b30b54
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय MANGESH BALARAM PATIL,
+रुपये 3569 चा EMI 2024-09-16 08:24:41 रोजी,
+खाते क्रमांक 600480, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 00000037951320221 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3569
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66e5033b30b54
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF MANGESH BALARAM PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3569 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-16 08:24:41 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 600480, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 00000037951320221 =E0=A4=AE=
+=E0=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=
+=BE =E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=
+=B0=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=
+=8D=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=
+=AF=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE =E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=
+=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=
+=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3569 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=
+=A5=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=
+=A4=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=
+=A4=B5=E0=A4=BE.
+
+--B_ALT_66e5033b30b54--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sun, 15 Sep 2024 03:30:04 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66e654bc4f771@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66e654bc4f794&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66e654bc4f794
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय RUPESH RAMAKANT SHINDE,
+रुपये 4175 चा EMI 2024-09-17 00:00:00 रोजी,
+खाते क्रमांक 700587, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 188201504359 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 4175
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66e654bc4f794
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF RUPESH RAMAKANT SHINDE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-17 00:00:00 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 700587, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 188201504359 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4175 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_66e654bc4f794--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Wed, 18 Sep 2024 03:31:00 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66ea4974423e0@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66ea4974423fc&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66ea4974423fc
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय PRAVIN MAHADEV PATIL,
+रुपये 2800 चा EMI 2024-09-20 07:12:52 रोजी,
+खाते क्रमांक 1700049, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 54872250008479 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2800
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66ea4974423fc
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF PRAVIN MAHADEV PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2800 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-20 07:12:52 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700049, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 54872250008479 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2800 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_66ea4974423fc--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Mon, 23 Sep 2024 03:30:05 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66f0e0bd83688@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66f0e0bd836ac&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66f0e0bd836ac
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय JAYAVNTI ANIRUDHA MHATRE,
+रुपये 2100 चा EMI 2024-09-25 08:34:58 रोजी,
+खाते क्रमांक , कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 42386859391 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 2100
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66f0e0bd836ac
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF JAYAVNTI ANIRUDHA MHATRE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2100 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-25 08:34:58 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 , =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=E0=A4=
+=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=E0=A5=
+=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=E0=A4=
+=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=E0=A4=
+=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF =E0=
+=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=
+=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=
+=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 42386859391 =E0=A4=AE=E0=A4=A7=
+=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=A4=
+=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=A4=
+=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=A4=
+=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=
+=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=A4=
+=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=
+=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=
+=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=A5=
+=81=E0=A4=AA=E0=A4=AF=E0=A5=87 2100 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=E0=
+=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=
+=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=E0=
+=A4=BE.
+
+--B_ALT_66f0e0bd836ac--</pre>
+
+Running from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code RunnedHiRunning from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Sun, 29 Sep 2024 03:30:05 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66f8c9bd10e72@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66f8c9bd10e95&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66f8c9bd10e95
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय ABHIJIT DATTATREY SALUNKHE,
+रुपये 3500 चा EMI 2024-09-01 10:43:34 रोजी,
+खाते क्रमांक 1600101, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 911010035272487 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3500
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66f8c9bd10e95
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF ABHIJIT DATTATREY SALUNKHE,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-01 10:43:34 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1600101, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 911010035272487 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3500 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_66f8c9bd10e95--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Mon, 30 Sep 2024 03:30:04 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66fa1b3c02a5b@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66fa1b3c02aa9&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66fa1b3c02aa9
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय SMITA RAMESH YERUNKAR,
+रुपये 4252 चा EMI 2024-09-02 05:55:05 रोजी,
+खाते क्रमांक 1700060, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 120610110004478 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 4252
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66fa1b3c02aa9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF SMITA RAMESH YERUNKAR,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4252 =E0=A4=9A=E0=A4=BE EMI 2=
+024-09-02 05:55:05 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700060, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 120610110004478 =E0=A4=AE=E0=
+=A4=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =
+=E0=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=
+=E0=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=
+=E0=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=
+=E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=
+=E0=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =
+=E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 4252 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=
+=8D=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=
+=B6=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=
+=B5=E0=A4=BE.
+
+--B_ALT_66fa1b3c02aa9--</pre>
+
+Running from the command line!
+Code Runned
+ERROR: An Error Was Encountered
+
+	220 us2.outbound.mailhostbox.com ESMTP Postfix
+<br /><pre>hello: 250-us2.outbound.mailhostbox.com
+250-PIPELINING
+250-SIZE 41648128
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+</pre><pre>from: 250 2.1.0 Ok
+</pre><pre>to: 501 5.1.3 Bad recipient address syntax
+</pre>The following SMTP error was encountered: 501 5.1.3 Bad recipient address syntax
+<br /><pre>quit: 221 2.0.0 Bye
+</pre>Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 1 Oct 2024 03:30:04 +0000
+From: &lt;emandate@adarshapatsanstha.com&gt;
+Return-Path: &lt;emandate@adarshapatsanstha.com&gt;
+Subject: =?UTF-8?Q?PAYMENT=5FREMINDER?=
+Reply-To: &lt;emandate@adarshapatsanstha.com&gt;
+User-Agent: CodeIgniter
+X-Sender: emandate@adarshapatsanstha.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;66fb6cbc13d95@adarshapatsanstha.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_66fb6cbc13dbb&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_66fb6cbc13dbb
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+प्रिय JAYESH PRABHAKAR PATIL,
+रुपये 3570 चा EMI 2024-10-03 07:24:38 रोजी,
+खाते क्रमांक 1700055, कर्ज प्रकार
+वैयक्तिक कर्ज (मध्यम मुदत)
+साठी देय आहे. तुमच्या खाते
+क्रमांक 20051755769 मधून EMI कापला
+जाईल.अतिरिक्त शुल्क
+टाळण्यासाठी कृपया तुमच्या
+बँकेच्या खात्यात रुपये 3570
+पेक्षा जास्त शिल्लक ठेवा.
+
+
+--B_ALT_66fb6cbc13dbb
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=BF=E0=A4=AF JAYESH PRABHAKAR PATIL,
+=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3570 =E0=A4=9A=E0=A4=BE EMI 2=
+024-10-03 07:24:38 =E0=A4=B0=E0=A5=8B=E0=A4=9C=E0=A5=80, =E0=A4=96=E0=A4=BE=
+=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=
+=E0=A4=95 1700055, =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C =E0=A4=AA=E0=A5=8D=
+=E0=A4=B0=E0=A4=95=E0=A4=BE=E0=A4=B0 =E0=A4=B5=E0=A5=88=E0=A4=AF=E0=A4=95=
+=E0=A5=8D=E0=A4=A4=E0=A4=BF=E0=A4=95 =E0=A4=95=E0=A4=B0=E0=A5=8D=E0=A4=9C (=
+=E0=A4=AE=E0=A4=A7=E0=A5=8D=E0=A4=AF=E0=A4=AE =E0=A4=AE=E0=A5=81=E0=A4=A6=
+=E0=A4=A4) =E0=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=A6=E0=A5=87=E0=A4=AF=
+ =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=
+=E0=A4=AF=E0=A4=BE =E0=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=87 =E0=A4=95=E0=A5=8D=
+=E0=A4=B0=E0=A4=AE=E0=A4=BE=E0=A4=82=E0=A4=95 20051755769 =E0=A4=AE=E0=A4=
+=A7=E0=A5=82=E0=A4=A8 EMI =E0=A4=95=E0=A4=BE=E0=A4=AA=E0=A4=B2=E0=A4=BE =E0=
+=A4=9C=E0=A4=BE=E0=A4=88=E0=A4=B2.=E0=A4=85=E0=A4=A4=E0=A4=BF=E0=A4=B0=E0=
+=A4=BF=E0=A4=95=E0=A5=8D=E0=A4=A4 =E0=A4=B6=E0=A5=81=E0=A4=B2=E0=A5=8D=E0=
+=A4=95 =E0=A4=9F=E0=A4=BE=E0=A4=B3=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=B8=E0=A4=BE=E0=A4=A0=E0=A5=80 =E0=A4=95=E0=A5=83=E0=A4=AA=E0=A4=AF=E0=
+=A4=BE =E0=A4=A4=E0=A5=81=E0=A4=AE=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=AC=E0=A4=81=E0=A4=95=E0=A5=87=E0=A4=9A=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=
+=A4=96=E0=A4=BE=E0=A4=A4=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=A4 =E0=A4=B0=E0=
+=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 3570 =E0=A4=AA=E0=A5=87=E0=A4=95=E0=A5=8D=
+=E0=A4=B7=E0=A4=BE =E0=A4=9C=E0=A4=BE=E0=A4=B8=E0=A5=8D=E0=A4=A4 =E0=A4=B6=
+=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B2=E0=A4=95 =E0=A4=A0=E0=A5=87=E0=A4=B5=
+=E0=A4=BE.
+
+--B_ALT_66fb6cbc13dbb--</pre>
+
+Running from the command line!
+Code RunnedHi
