@@ -180,85 +180,137 @@ class MessageCron extends Admin_Controller {
 
         }
 
-    public function index($value='')
-         {
-            echo "Hi";
-         }   
-    // $initiated_tranasactions_mandate_customer_ids=2
-    public function sendTransactionReminderMessages()
-       
-        {
+            public function index($value='') {
 
-                $message_template_work_type='PAYMENT_REMINDER';
-                $message_templates =  $this->getDefaultTemplateIDsByWorkType($message_template_work_type);
+                $message_template_work_type = array('PAYMENT_FAIL', 'PAYMENT_REMINDER');
 
-                $all_transaction_record = $this->getAllMandateTransactionSchedule();
-              
-        
-                $matched_records_by_time = []; // Array to store matched records separately for each timePicker
-                $current_time = date('h:i A'); // Get the current time in 12-hour format
+                // Loop through each message template work type
 
-                foreach ($message_templates as $template) {
-                    // Decode the 'message_template_send_setting' to get the frequencies
-                    $settings = json_decode($template->message_template_send_setting);
+                for ($i=0; $i < count($message_template_work_type) ; $i++) { 
+                    // code...
+                
+                    $all_transaction_record = '';
+                    if ($message_template_work_type[$i] == 'PAYMENT_REMINDER') {
 
-                    if (isset($settings->frequencies)) {
-                        // code...
-                            foreach ($settings->frequencies as $frequency) {
-                                $dayBeforeDebitDate = (int)$frequency->dayBeforeDebitDate; // Get dayBeforeDebitDate
-                                foreach ($all_transaction_record as $record) {
-                                    // Check if the dateDifferenceCount matches dayBeforeDebitDate
-                                    if ($record->dateDifferenceCount == $dayBeforeDebitDate) {
-                                        // Loop through timePickers to match each specific time
-                                        foreach ($frequency->timePickers as $timePicker) {
-                                            // Initialize an array for this specific timePicker if it doesn't exist
-                                            if (!isset($matched_records_by_time[$timePicker])) {
-                                                $matched_records_by_time[$timePicker] = [];
-                                            }
+                                    $all_transaction_record = $this->db->select('mts.mts_customer_id, mts.mts_datetime, DATEDIFF(mts.mts_datetime, NOW()) AS dateDifferenceCount')
+                                        ->from('mandate_transaction_schedule mts')
+                                        ->join('mandate_customers mc', 'mts.mts_customer_id = mc.mandate_customer_id', 'left')
+                                        ->where('mts.mts_is_active', 1)
+                                        ->where('mts.mts_is_deleted', 0)
+                                        ->where('(mts.mts_status_message IS NULL OR mts.mts_status_message = "I")')
+                                        ->where('mts.mts_is_skipped', 0)
+                                        ->where('mc.is_active', 1)
+                                        ->where('mc.is_deleted', 0)
+                                        ->where('mc.mandate_status_message', 'success')
+                                        ->having('dateDifferenceCount > 0 AND dateDifferenceCount < 30')  // Include dates greater than 0 and less than 30 days
+                                        ->order_by('dateDifferenceCount', 'ASC')  // Order by closest to today
+                                        ->get()
+                                        ->result();
 
-                                            // Store the matched record in the array for the specific timePicker
-                                            $matched_records_by_time[$timePicker][] = [
-                                                'mts_customer_id' => $record->mts_customer_id,
-                                                'mts_datetime' => $record->mts_datetime,
-                                                'message_template_id' => $template->message_template_id,
-                                                'dayBeforeDebitDate' => $dayBeforeDebitDate,
-                                                'timePicker' => $timePicker
-                                            ];
-                                        }
-                                    }
+                                }else{
+                                    // Fetch all active transactions
+                                        $all_transaction_record = $this->db->select('mts.mts_customer_id, mts.mts_datetime, DATEDIFF(mts.mts_datetime, NOW()) AS dateDifferenceCount')
+                                            ->from('mandate_transaction_schedule mts')
+                                            ->join('mandate_customers mc', 'mts.mts_customer_id = mc.mandate_customer_id', 'left')
+                                            ->where('mts.mts_is_active', 1)
+                                            ->where('mts.mts_is_deleted', 0)
+                                            ->where('mts.mts_status_message = "F"')
+                                            ->where('mts.mts_is_already_scheduled', 1)
+                                            ->where('mc.is_active', 1)
+                                            ->where('mc.is_deleted', 0)
+                                            ->where('mc.mandate_status_message', 'success')
+                                            ->having('dateDifferenceCount > -30 AND dateDifferenceCount < 0')  
+
+                                            ->order_by('dateDifferenceCount', 'ASC')  // Order by closest to today
+                                            ->get()
+                                            ->result();
                                 }
-                            }
-                    }
-                    
+
+
+
+                    // Call the method to send transaction reminder messages
+                    $this->sendTransactionReminderMessages($message_template_work_type[$i], $all_transaction_record);
                 }
-       
+            }
 
 
-                if (!empty($matched_records_by_time)) {
-                    foreach ($matched_records_by_time as $timePicker => $records) {
-                        // If current time matches the timePicker
-                        // if ($current_time == $timePicker) {
-                            foreach ($records as $record) {
-                                $message_template_id = $record['message_template_id'];
-                                $mandate_customer_id = $record['mts_customer_id'];
-                                // $user_id = 1;
+        public function sendTransactionReminderMessages($message_template_work_type, $all_transaction_record) {
+
+            $message_templates = $this->getDefaultTemplateIDsByWorkType($message_template_work_type);
 
 
-                                // Call send_all_messages function for the matched record
-                                $resp = $this->send_all_messages($message_template_id, $mandate_customer_id, null);
 
-                                // Output the response from send_all_messages
-                                print($resp);
-                                // exit();
+            // If the work type is 'PAYMENT_REMINDER', fetch relevant records again
+           
+              // Debug output for templates
+            // echo "<pre>Templates for {$message_template_work_type}:\n";
+            // print_r($message_templates);
+            // echo "</pre>";
+
+
+                // echo "<pre>Templates for {$message_template_work_type}:\n";
+                // print_r($all_transaction_record);
+                // echo "</pre>";
+
+
+            $matched_records_by_time = []; // Array to store matched records separately for each timePicker
+            $current_time = date('h:i A'); // Get the current time in 12-hour format
+
+            foreach ($message_templates as $template) {
+                // Decode the 'message_template_send_setting' to get the frequencies
+                $settings = json_decode($template->message_template_send_setting);
+
+                if (isset($settings->frequencies)) {
+                    foreach ($settings->frequencies as $frequency) {
+                        $dayBeforeDebitDate = (int)$frequency->dayBeforeDebitDate; // Get dayBeforeDebitDate
+
+                        // Filter records based on dateDifferenceCount
+                        $filtered_records = array_filter($all_transaction_record, function($record) use ($dayBeforeDebitDate) {
+                            return abs($record->dateDifferenceCount) == $dayBeforeDebitDate;
+                        });
+
+                //          echo "<pre>Filtered Records for dayBeforeDebitDate={$dayBeforeDebitDate}:\n";
+                // print_r($filtered_records);
+                // echo "</pre>";
+
+                        // Process filtered records for each frequency
+                        foreach ($filtered_records as $record) {
+                            foreach ($frequency->timePickers as $timePicker) {
+                                // Initialize an array for this specific timePicker if it doesn't exist
+                                if (!isset($matched_records_by_time[$timePicker])) {
+                                    $matched_records_by_time[$timePicker] = [];
+                                }
+
+                                // Store the matched record in the array for the specific timePicker
+                                $matched_records_by_time[$timePicker][] = [
+                                    'mts_customer_id' => $record->mts_customer_id,
+                                    'mts_datetime' => $record->mts_datetime,
+                                    'message_template_id' => $template->message_template_id,
+                                    'dayBeforeDebitDate' => $dayBeforeDebitDate,
+                                    'timePicker' => $timePicker
+                                ];
                             }
-                        // }
+                        }
                     }
                 }
-               
+            }
+
+            // If necessary, process matched records for sending messages (currently commented out)
+            if (!empty($matched_records_by_time)) {
+                foreach ($matched_records_by_time as $timePicker => $records) {
+                    // if ($current_time == $timePicker) {
+                        foreach ($records as $record) {
+                            $message_template_id = $record['message_template_id'];
+                            $mandate_customer_id = $record['mts_customer_id'];
+                            $resp = $this->send_all_messages($message_template_id, $mandate_customer_id, null);
+                            print($resp);
+                        }
+                    // }
+                }
+            }
         }
 
-
-    public function getDefaultTemplateIDsByWorkType($message_template_work_type)
+        public function getDefaultTemplateIDsByWorkType($message_template_work_type)
         {
             
             if(!empty($message_template_work_type)){
@@ -304,40 +356,42 @@ class MessageCron extends Admin_Controller {
 
 
 
-    public function getAllMandateTransactionSchedule()
-        {
-            
+    // public function getAllMandateTransactionSchedule($query)
+    //     {
+    //             echo "<pre>";
+    //             print_r($query);
+    //             // exit();
 
-                $recordTransactionSchedule = $this->db->select('mts.mts_customer_id, mts.mts_datetime, DATEDIFF(mts.mts_datetime, NOW()) AS dateDifferenceCount')
-                                            ->from('mandate_transaction_schedule mts')
-                                            ->join('mandate_customers mc', 'mts.mts_customer_id = mc.mandate_customer_id', 'left')
-                                            ->where('mts.mts_is_active', 1)
-                                            ->where('mts.mts_is_deleted', 0)
-                                            ->where('(mts.mts_status_message IS NULL OR mts.mts_status_message = "I")')
-                                            ->where('mts.mts_is_skipped', 0)
-                                            ->where('mc.is_active', 1)
-                                            ->where('mc.is_deleted', 0)
-                                            ->where('mc.mandate_status_message', 'success')
-                                            ->having('dateDifferenceCount > 0')  // Only include future dates, for example
-                                            ->order_by('dateDifferenceCount', 'ASC')  // Order by closest to today
-                                            ->get()
-                                            ->result();
+    //             $recordTransactionSchedule = $this->db->select('mts.mts_customer_id, mts.mts_datetime, DATEDIFF(mts.mts_datetime, NOW()) AS dateDifferenceCount')
+    //                                         ->from('mandate_transaction_schedule mts')
+    //                                         ->join('mandate_customers mc', 'mts.mts_customer_id = mc.mandate_customer_id', 'left')
+    //                                         ->where('mts.mts_is_active', 1)
+    //                                         ->where('mts.mts_is_deleted', 0)
+    //                                         ->where('(mts.mts_status_message IS NULL OR mts.mts_status_message = "I")')
+    //                                         ->where('mts.mts_is_skipped', 0)
+    //                                         ->where('mc.is_active', 1)
+    //                                         ->where('mc.is_deleted', 0)
+    //                                         ->where('mc.mandate_status_message', 'success')
+    //                                         ->having('dateDifferenceCount > 0')  // Only include future dates, for example
+    //                                         ->order_by('dateDifferenceCount', 'ASC')  // Order by closest to today
+    //                                         ->get()
+    //                                         ->result();
                                          
 
-                if (!empty($recordTransactionSchedule)) {
+    //             if (!empty($recordTransactionSchedule)) {
                     
-                   return $recordTransactionSchedule;
+    //                return $recordTransactionSchedule;
 
-                } 
+    //             } 
 
-                else {
+    //             else {
 
-                   return false;
+    //                return false;
                 
-                }
+    //             }
 
                  
-        }
+    //     }
 
 
 
@@ -525,17 +579,17 @@ class MessageCron extends Admin_Controller {
                                 }
 
                             //    9869793658
-                                echo"<pre>";
-                                print_r($vendor_row);
-                                exit();
+                                // echo"<pre>";
+                                // print_r($vendor_row);
+                                // exit();
                                 $apiKey = urlencode($vendor_row->message_vendor_key);
 
                                 $sender = urlencode($template_row->message_template_sender_head);
 
                                 $message = rawurlencode($message_template);
 
-                                // Prepare data for POST request
-                                $data = array('unicode'=>1,'apikey' => $apiKey, 'numbers' => '7709189291', 
+                                // Prepare data for POST request'7709189291'
+                                $data = array('unicode'=>1,'apikey' => $apiKey, 'numbers' => $phone, 
                                               "sender" => $sender, "message" => $message);
 
 

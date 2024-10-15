@@ -593,7 +593,7 @@
                                 newDiv.find(`#timepicker_${frequencyCounter}`).val(timePickers[0]);
 
                                 // Initialize Flatpickr for the default timepicker in the cloned div
-                                flatpickr(`#timepicker_${frequencyCounter}`, {
+                                flatpickr(`#timepicker_1`, {
                                     enableTime: true,
                                     noCalendar: true,
                                     dateFormat: "h:i K", // 12-hour format with AM/PM

@@ -678,8 +678,8 @@ function populateForm() {
                                       data: {
                                         mandate_register_datetime:response.paymentMethod.paymentTransaction.dateTime,
                                         mandate_status_code:response.paymentMethod.paymentTransaction.statusCode,
-                                        // mandate_status_message:response.paymentMethod.paymentTransaction.statusMessage,
-                                        mandate_status_message : 'success',
+                                        mandate_status_message:response.paymentMethod.paymentTransaction.statusMessage,
+                                        // mandate_status_message : 'success',
                                         mandate_identifier:response.paymentMethod.paymentTransaction.identifier,
                                         mandate_token:response.paymentMethod.paymentTransaction.instruction.id,
                                         response:response,
@@ -700,8 +700,8 @@ function populateForm() {
                                        } else if (response.status_message) {
                                            statusMessage = response.status_message;
                                        }
-                                        // === 'success' 
-                                       if (statusMessage ) {
+                                        // 
+                                       if (statusMessage === 'success' ) {
                                            console.log("Status is 'Success'. Generating transaction schedule...");
                                            generateTransactionSchedule('<?php echo $mandate_customer_id; ?>',
                                             customer_details.customer_start_date,
